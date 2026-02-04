@@ -1,7 +1,6 @@
 [abi_symbol_list]
   abort_creds
   add_device_randomness
-  add_memory_driver_managed
   addrconf_add_linklocal
   addrconf_prefix_rcv_add_addr
   add_swap_extent
